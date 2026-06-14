@@ -1,6 +1,0 @@
-Model,Accuracy,F1-Score,ROC-AUC
-Numerical-Only,0.71,0.69,0.72
-Text-Only,0.68,0.64,0.7
-Image-Only,0.65,0.61,0.67
-Blockchain-Only,0.73,0.71,0.75
-Multimodal (Proposed),0.89,0.88,0.92

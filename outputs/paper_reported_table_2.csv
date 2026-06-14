@@ -1,4 +1,0 @@
-Fusion Method,Accuracy,F1-Score,CV Variance
-Early Fusion,0.81,0.79,±0.041
-Late Fusion,0.84,0.82,±0.035
-Cross-Attention (Ours),0.89,0.88,±0.018

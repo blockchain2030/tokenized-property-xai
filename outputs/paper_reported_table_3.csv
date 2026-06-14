@@ -1,5 +1,0 @@
-XAI Method,Modality,Stability (%),Coverage (%)
-SHAP,Numerical/Blockchain,97.2,91.8
-LIME,Textual,94.6,88.4
-Grad-CAM,Visual,95.1,89.7
-Graph Attention,Blockchain,96.3,90.5
