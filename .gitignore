@@ -1,5 +1,9 @@
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-outputs/*.joblib
-.DS_Store
+.env
+.venv/
+models/*.pt
+models/*.pth
+data/images/*
+data/blockchain_graphs/*
+legacy_baseline/*

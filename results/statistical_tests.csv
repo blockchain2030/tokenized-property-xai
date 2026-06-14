@@ -1,0 +1,5 @@
+Baseline,Comparator,t_statistic,p_value,Significant p<0.05
+Numerical-Only,Multimodal (Proposed),31.8198051533947,5.814428490519056e-06,True
+Text-Only,Multimodal (Proposed),18.10748576948755,5.469397961152211e-05,True
+Image-Only,Multimodal (Proposed),15.01760908452158,0.00011455606777133045,True
+Blockchain-Only,Multimodal (Proposed),41.873913807217065,1.9441403311034223e-06,True

@@ -1,13 +1,13 @@
-pandas>=2.0
 numpy>=1.24
+pandas>=2.0
 scikit-learn>=1.3
+scipy>=1.10
 matplotlib>=3.7
-openpyxl>=3.1
-joblib>=1.3
-# Optional full XAI/deep learning stack, install when raw images/docs/graphs are available:
-# torch
-# torchvision
-# transformers
-# torch-geometric
-# shap
-# lime
+networkx>=3.0
+torch>=2.0
+torchvision>=0.15
+transformers>=4.35
+lime>=0.2.0.1
+shap>=0.44
+# torch-geometric installation depends on CUDA/PyTorch version:
+# https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html

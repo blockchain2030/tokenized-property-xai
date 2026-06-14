@@ -1,0 +1,5 @@
+Path,Exists
+data/numerical/numerical_features.csv,False
+data/textual/text_documents.csv,False
+data/images,True
+data/blockchain_graphs,True
