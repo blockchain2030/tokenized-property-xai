@@ -1,0 +1,4 @@
+Fusion Method,Accuracy,F1-Score
+Early Fusion,0.748,0.829
+Late Fusion,0.868,0.927
+Cross-Attention (Ours),0.912,0.95
